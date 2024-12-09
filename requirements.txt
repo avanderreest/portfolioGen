@@ -1,8 +1,9 @@
 yfinance
 pandas==1.5.3
+numpy==1.26.4
 pandas_ta
 pandas_datareader
-statsmodel
+statsmodels
 matplotlib
 scikit-learn
 PyPortfolioOpt
@@ -14,9 +15,7 @@ alpaca-py
 requests
 python-dotenv
 streamlit
-numpy
 datetime
 scikit-learn
-pandas_datareader
-statsmodels
+
 
